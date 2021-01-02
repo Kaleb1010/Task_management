@@ -1,0 +1,47 @@
+[
+    {"name": "Kaleb",
+        "email": "caleb@gmail.com",
+        "department": "sales",
+        "password": "123456"
+    },{"name": "Kaleb1",
+        "email": "caleb1@gmail.com",
+        "department": "marketing",
+        "password": "123456"
+    },{"name": "Kaleb2",
+        "email": "caleb2@gmail.com",
+        "department": "sales",
+        "password": "123456"
+    },{"name": "Kaleb3",
+        "email": "caleb3@gmail.com",
+        "department": "engineering",
+        "password": "123456"
+    },{"name": "Kaleb4",
+        "email": "caleb4@gmail.com",
+        "department": "3d",
+        "password": "123456"
+    },{"name": "Kaleb5",
+        "email": "caleb5@gmail.com",
+        "department": "sales",
+        "password": "123456"
+    },{"name": "Kaleb6",
+        "email": "caleb6@gmail.com",
+        "department": "3d",
+        "password": "123456"
+    },{"name": "Kaleb7",
+        "email": "caleb7@gmail.com",
+        "department": "marketing",
+        "password": "123456"
+    },{"name": "Kaleb8",
+        "email": "caleb8@gmail.com",
+        "department": "engineering",
+        "password": "123456"
+    },{"name": "Kaleb9",
+        "email": "caleb9@gmail.com",
+        "department": "3d",
+        "password": "123456"
+    },{"name": "Kaleb10",
+        "email": "caleb10@gmail.com",
+        "department": "engineering",
+        "password": "123456"
+    }
+]
